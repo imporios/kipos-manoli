@@ -4,7 +4,7 @@
   "display": "standalone",
   "name": "Κήπος Μανώλη",
   "orientation": "any",
-  "scope": "/": "/kipos-manoli/"
+  "scope": "/kipos-manoli/"
   "short_name": "Κήπος Μανώλη",
   "start_url":"/kipos-manoli/"
   "theme_color": "#2d5a27",
