@@ -1,0 +1,12 @@
+{
+  "background_color": "#2d5a27",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Κήπος Μανώλη",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Κήπος Μανώλη",
+  "start_url": "/",
+  "theme_color": "#2d5a27",
+  "description": "Διαχείριση κήπου Δέντρα, Φυτά - Καταγραφή αρχείων"
+}
