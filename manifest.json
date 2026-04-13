@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "Κήπος Μανώλη",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/": "/kipos-manoli/"
   "short_name": "Κήπος Μανώλη",
-  "start_url": "/",
+  "start_url":"/kipos-manoli/"
   "theme_color": "#2d5a27",
   "description": "Διαχείριση κήπου Δέντρα, Φυτά - Καταγραφή αρχείων"
 }
